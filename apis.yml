@@ -10,7 +10,7 @@ description: >-
   services, SuiteQL queries, and RESTlets, secured with OAuth 2.0 and
   token-based authentication for ERP and finance integrations.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Accounting
   - Financials
