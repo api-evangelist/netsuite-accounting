@@ -81,6 +81,8 @@ apis:
       - type: Documentation
         url: https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/chapter_4618456517.html
 common:
+  - type: DomainSecurity
+    url: security/netsuite-accounting-domain-security.yml
   - type: Website
     url: https://www.netsuite.com/portal/products/erp/financial-management.shtml
   - type: Documentation
