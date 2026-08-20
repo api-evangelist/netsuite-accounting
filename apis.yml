@@ -48,6 +48,14 @@ apis:
     tags:
       - REST
       - SuiteQL
+      - Authentication
+      - TBA
+      - Invoices
+      - Journal Entries
+      - General Ledger
+    tags_raw:
+      - REST
+      - SuiteQL
       - OAuth 2.0
       - TBA
       - Invoices
