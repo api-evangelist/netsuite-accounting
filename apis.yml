@@ -10,6 +10,17 @@ description: >-
   services, SuiteQL queries, and RESTlets, secured with OAuth 2.0 and
   token-based authentication for ERP and finance integrations.
 type: Index
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
